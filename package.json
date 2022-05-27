@@ -1,0 +1,25 @@
+{
+  "name": "stunning-funicular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Francis270/stunning-funicular.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Francis270/stunning-funicular/issues"
+  },
+  "homepage": "https://github.com/Francis270/stunning-funicular#readme",
+  "dependencies": {
+    "node-binance-api": "^0.13.1",
+    "technicalindicators": "^3.1.0"
+  }
+}
